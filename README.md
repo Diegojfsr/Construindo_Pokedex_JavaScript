@@ -60,8 +60,8 @@ saber. E caso você conheça alguém que se identidique com o conteúdo, não de
 
 <p dir="auto"> 
  <em>
-  Projeto desenvolvido utilizando os conhecimentos adquiridos dentro da trilha de aprendizado do <strong> Módulo 3 | Angular </strong>. Durante o 
-  <strong> Santander Bootcamp Fullstack Developer 2022! </strong><br>
+  Projeto desenvolvido utilizando os conhecimentos adquiridos dentro da trilha: <strong> Primeiras Páginas Interativas com JavaScript </strong>. Durante o 
+  <strong> Cloud Fullstack Bootcamp - Warburg Pincus </strong><br>
   Conteudos ministrados pelo Especialista: Renan Johannsen ( Software Engineer Lead, S3 BANK) <br>
   Programa ofertado Pelo <strong> Santander </strong> em parceria com a <a href=" https://www.dio.me/"> <strong>  Digital Innovation One ❤️ </strong></a>
  </em> 
