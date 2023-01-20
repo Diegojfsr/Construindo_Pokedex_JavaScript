@@ -15,13 +15,13 @@ Explorar, além do JavaScript, todos os fundamentos de desenvolvimento Web apren
 
 <h2 dir="auto"> 🚦 Guia </h2>
 <ul dir="auto">
-<li> Download do Projeto Base - <a href=" https:// "> Acessar </a></li>
-<li> Construindo uma Pokédex com JavaScript - <a href=" https:// "> Acessar </a></li>
-<li> Instalando o Git - <a href=" https:// "> Acessar </a></li>
-<li> Criando o Fork do Projeto -  <a href=" https:// "> Acessar </a></li>
-<li> Clonando o projeto na nossa maquina-  <a href=" https:// "> Acessar </a></li>
-<li> Mandando as modificações para o github -  <a href=" https:// "> Acessar </a></li>
-<li> Entendendo o Desafio - <a href=" https:// "> Acessar </a></li>
+<li> Download do Projeto Base - <a href="https:// "> Acessar </a></li>
+<li> Construindo uma Pokédex com JavaScript - <a href="https:// "> Acessar </a></li>
+<li> Instalando o Git - <a href="https:// "> Acessar </a></li>
+<li> Criando o Fork do Projeto -  <a href="https:// "> Acessar </a></li>
+<li> Clonando o projeto na nossa maquina-  <a href="https:// "> Acessar </a></li>
+<li> Mandando as modificações para o github -  <a href="https:// "> Acessar </a></li>
+<li> Entendendo o Desafio - <a href="https:// "> Acessar </a></li>
 </ul>
 
 <h2 dir="auto"> ⚠️ Especificação e requisitos </h2>
